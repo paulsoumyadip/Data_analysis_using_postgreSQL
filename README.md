@@ -9,7 +9,7 @@ This project is a SQL database that tracks the items that are returned by custom
 
 ## Data Source
 
-The data for this project is based on a sample store order dataset from [^1^][2]. The dataset contains information about 9,994 orders placed by 4,373 customers in 2018. The dataset has the following columns:
+The data for this project is based on a sample store order dataset. The dataset contains information about 9,994 orders placed by 4,373 customers in 2018. The dataset has the following columns:
 
 - Row_ID: a unique identifier for each row
 - Order_ID: a unique identifier for each order
