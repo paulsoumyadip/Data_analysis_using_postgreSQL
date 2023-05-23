@@ -1,4 +1,4 @@
-# Store Returned Items Database
+# Store Items Database
 
 This project is a SQL database that tracks the items that are returned by customers in a store. The database can store information about the orders, the customers, the products, and the reasons for returning. It can also generate reports to answer questions such as:
 
